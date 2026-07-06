@@ -8,8 +8,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer" />
 
 
+
 <div align="center">
-[![LinkedIn](https://shields.io)](https://linkedin.com) ![Profile Views](https://komarev.com)
+<a href="https://www.linkedin.com/in/rawan-almasri-sw/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
 <br>
 </div>
 
