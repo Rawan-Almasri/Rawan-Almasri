@@ -9,12 +9,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rawan-almasri-sw/" target="_blank" style="vertical-align: middle;">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp; 
-  <img src="https://komarev.com" alt="Profile Views" style="vertical-align: middle;" />
-</div>
+[![LinkedIn](https://shields.io)](https://linkedin.com) ![Profile Views](https://komarev.com)
 <br>
 </div>
 
