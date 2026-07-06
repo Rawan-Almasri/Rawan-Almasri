@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
 </a>
 </div>
-<br>
 </div>
 
 
@@ -24,8 +23,10 @@
 ## About Me 🎓
 
 I am a **Software Engineering & Information Systems Master's Student at Damascus University**. I am a passionate Full-Stack & Mobile Developer who loves turning ideas into production-ready applications. I am constantly learning new technologies, building personal projects, and improving system architectures.
+I am a **Software Engineering & Information Systems Master's Student at Damascus University**. As a passionate Full-Stack & Mobile Developer, I specialize in transforming complex concepts into production-ready applications with a strong focus on data-driven solutions. My expertise spans data analysis, engineering, and and architecture design.
 
--  **Currently Focused On:** Advanced Database Architectures, SQL Database Managment, and building highly scalable Web & Mobile applications.
+
+-  **Currently Focused On:** Advanced Database Architectures, Data Analysis & Insights, SQL Database Management, and building highly scalable,Web & Mobile applications & Mobile applications.
 -  **Reach Me At:** rawan.mas.2001@gmail.com
 
 
