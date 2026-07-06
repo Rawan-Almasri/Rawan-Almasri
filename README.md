@@ -8,14 +8,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer" />
 
 
-
 <div align="center">
-<a href="https://www.linkedin.com/in/rawan-almasri-sw/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/rawan-almasri-sw/" target="_blank" style="vertical-align: middle;">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp; 
+  <img src="https://komarev.com" alt="Profile Views" style="vertical-align: middle;" />
 </div>
 <br>
 </div>
+
 
 
 ---
@@ -31,7 +33,7 @@ I am a **Software Engineering & Information Systems Master's Student at Damascus
 
 ## 🧰 Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,typeorm,python,fastapi,flutter,postgres,mysql,mongodb,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,flutter,postgres,mysql,mongodb,git,github,docker" />
 
 |  Web & Backend |  Mobile |  Databases |
 | :--- | :--- | :--- |
