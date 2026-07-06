@@ -5,7 +5,7 @@
 </h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+and+Dynamic+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer" />
 
 
 
@@ -15,7 +15,6 @@
 </a>
 </div>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,flutter,ts,js,python,postgres,mysql,mongodb,git,github,docker" />
 
 <br><br>
 </div>
@@ -32,11 +31,14 @@ I am a **Software Engineering & Information Systems Master's Student at Damascus
 
 
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack:
 
 |  Web & Backend |  Mobile |  Databases |
 | :--- | :--- | :--- |
 | • **Node.js** <br> • **Next.js** <br> • **NestJS** | • **Flutter** | • **SQL Server** <br> • **Oracle DB** <br> • **PostgreSQL** <br> • **MySQL** <br> • **MongoDB** |
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,flutter,ts,js,python,postgres,mysql,mongodb,git,github,docker" />
+
 
 ## 💡 Dev Quote
 
