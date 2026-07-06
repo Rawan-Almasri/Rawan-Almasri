@@ -35,9 +35,9 @@ I am a **Software Engineering & Information Systems Master's Student at Damascus
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,flutter,postgres,mysql,mongodb,git,github,docker" />
 
-|  Web & Backend |  Mobile |  Databases |
+|  Backend |  Mobile |  Databases |
 | :--- | :--- | :--- |
-| • **Node.js** <br> • **Next.js** <br> • **NestJS** | • **Flutter** | • **SQL Server** <br> • **Oracle DB** <br> • **PostgreSQL** <br> • **MySQL** <br> • **MongoDB** |
+| • **Node.js** <br> • **Express.js** <br> • **NestJS** | • **Flutter** | • **SQL Server** <br> • **Oracle DB** <br> • **PostgreSQL** <br> • **MySQL** <br> • **MongoDB** |
 
 
 
