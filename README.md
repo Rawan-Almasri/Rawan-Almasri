@@ -15,8 +15,6 @@
 </a>
 </div>
 <br>
-
-<br><br>
 </div>
 
 
@@ -33,11 +31,12 @@ I am a **Software Engineering & Information Systems Master's Student at Damascus
 
 ## 🧰 Tech Stack:
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,typeorm,python,fastapi,flutter,postgres,mysql,mongodb,git,github,docker" />
+
 |  Web & Backend |  Mobile |  Databases |
 | :--- | :--- | :--- |
 | • **Node.js** <br> • **Next.js** <br> • **NestJS** | • **Flutter** | • **SQL Server** <br> • **Oracle DB** <br> • **PostgreSQL** <br> • **MySQL** <br> • **MongoDB** |
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,flutter,ts,js,python,postgres,mysql,mongodb,git,github,docker" />
 
 
 ## 💡 Dev Quote
